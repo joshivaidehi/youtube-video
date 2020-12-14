@@ -46,7 +46,6 @@ componentDidMount(){
                 </div>
                 
                 {/* I have {this.state.videos.length} */}
-                                {/* I have {this.state.videos.length} */}
 
             </div>
         );
